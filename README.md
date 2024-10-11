@@ -9,3 +9,4 @@ Problema: Implementa una plataforma para evaluar el desempeño de empleados. Def
     - Realizar y consultar evaluaciones de desempeño.
     - Consultar el historial de evaluaciones para un empleado específico.
     #Resultado: Enviar un PR (Pull request)  al branch llamado Recuperación en un archivo llamado de word, mostrar los resultados de la API, ingresar datos de ejemplo que demuestre el funcionamiento de la API
+    juan
